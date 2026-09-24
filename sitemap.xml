@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>https://splstudios.com/</loc>
+    </url>
+
+    <url>
+        <loc>https://splstudios.com/about/</loc>
+    </url>
+
+    <url>
+        <loc>https://splstudios.com/services/</loc>
+    </url>
+
+    <url>
+        <loc>https://splstudios.com/portfolio/</loc>
+    </url>
+
+    <url>
+        <loc>https://splstudios.com/blog/</loc>
+    </url>
+
+    <url>
+        <loc>https://splstudios.com/contact/</loc>
+    </url>
+
+</urlset>
